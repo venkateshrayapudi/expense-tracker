@@ -1,0 +1,16 @@
+.Title {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background-color:wheat;
+    width: 50% */
+    background-color: #a892ee;
+    margin: 1rem auto;
+    padding: 0.1rem;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
